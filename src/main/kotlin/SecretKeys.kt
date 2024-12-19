@@ -1,4 +1,4 @@
-// DO NOT SUBMIT THIS FILE.
+// DO NOT SUBMIT THIS FILE WITH YOUR DETAILS
 
 // You need to change all four of these.
 const val USERNAME = ""
